@@ -27,7 +27,7 @@ class INLINE:
             [InlineKeyboardButton(TEXT.DEVELOPER, url="https://t.me/silent_terabot_support")],
             [
                 InlineKeyboardButton(TEXT.UPDATES_CHANNEL, url="https://t.me/+uoKOR21nkiQyZTNl"),
-                InlineKeyboardButton(TEXT.SOURCE_CODE, url="https://t.me/tera_linktovideo_bot"),
+                InlineKeyboardButton(TEXT.SOURCE_CODE, url="https://t.me/silent_terabot_support"),
             ],
         ]
     )
